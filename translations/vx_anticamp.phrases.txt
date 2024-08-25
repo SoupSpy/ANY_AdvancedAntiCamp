@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"inAntiCampZone"
+	{
+		"#format"	"{1:d}"
+		"en"	"!!!You Are Within AntiCamp Zone!!!\nYou have {1} seconds to leave the zone"
+		"tr"	"!!!AntiCamp Alanındasın!!!\nAlanı terketmek için kalan süren: {1}"
+	}
+	"Smote"
+	{
+		"en"	"You got smote for not leaving the AntiCamp zone!"
+		"tr"	"AntiCamp alanını terk etmediğin için çarpıldın!"
+	}
+	"Smotetext"
+	{
+		"#format"	"{1:s}"
+		"tr"	"{green}{1} {default}anticamp alanından ayrılmadı için çarpıldı!"
+		"en"	"{green}{1} {default}got smote for not leaving the AntiCamp zone!"
+	}
+	"LeftZone"
+	{
+		"#format"	"{1:0.0f}"
+		"tr"	"AntiCamp Alanından Ayrıldın\nCamp Süresinin sıfırlanması için {1} saniye beklemelisin."
+		"en"	"You Left The Zone\nYou have to wait {1} seconds before your Camp time gets reset."
+	}
+}
