@@ -18,7 +18,7 @@
 
 public Plugin myinfo = 
 {
-	name = "SM DEV Zones - VXAntiRush", 
+	name = "SM DEV Zones - VXAntiCamp", 
 	author = "Yekta.T", 
 	description = "", 
 	version = "0.2.4", 
