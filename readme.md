@@ -23,6 +23,7 @@ anticamp area and kill the player at the end of the countdown has been fixed.
 A convar has been added to allow the prefix to be changed."`
 
 # *CVARS*
+```c
 // 1->Plugin enabled, 0->Plugin disabled
 // -
 // Default: "1"
@@ -45,3 +46,4 @@ sm_vxanticamp_prefix "{red}[ {olive}VortéX Anti-Camp {red}]"
 // Default: "30"
 // Minimum: "10.000000"
 sm_vxanticamp_time "30"
+```
